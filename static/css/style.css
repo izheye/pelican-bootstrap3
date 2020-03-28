@@ -239,3 +239,9 @@ figure.floatcenter, .align-center {
 .gap-left {
   margin-left: 10px;
 }
+
+.article-info {
+    color: #a2a9b3;
+    font-size: 1.3rem;
+    padding: 9px 0;
+}
